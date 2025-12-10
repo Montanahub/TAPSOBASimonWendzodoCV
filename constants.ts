@@ -62,7 +62,7 @@ export const PROJECTS: Project[] = [
   },
   {
     title: "Beoog Burkimbi",
-    url: "https://beoogburkimbi.web.app",
+    url: "https://beoogkombi.web.app",
     description: "Plateforme communautaire ou éducative."
   }
 ];
