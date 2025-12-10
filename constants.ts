@@ -38,7 +38,8 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
       "Firebase Hosting",
       "Render",
       "Github (Collaboration & Versioning)",
-      "Gestion de domaines .bf"
+      "Gestion de nom de domaines .bf"
+
     ]
   }
 ];

@@ -15,7 +15,7 @@ const Contact: React.FC = () => {
               <span className="text-blue-500">{PERSONAL_INFO.name.split(' ')[0]}</span> {PERSONAL_INFO.name.split(' ').slice(1).join(' ')}
             </h3>
             <p className="text-slate-400 leading-relaxed">
-              Développeur passionné par l'innovation numérique, transformant les défis en solutions élégantes.
+              Développeur autodidacte et passionné par l'innovation numérique, transformant les défis en solutions élégantes.
             </p>
             <div className="flex flex-wrap gap-2">
                 {PERSONAL_INFO.languages.map((lang, idx) => (
