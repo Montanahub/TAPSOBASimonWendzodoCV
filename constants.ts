@@ -64,7 +64,33 @@ export const PROJECTS: Project[] = [
     title: "Beoog Burkimbi",
     url: "https://beoogkombi.web.app",
     description: "Plateforme communautaire ou éducative."
+  },
+  {
+    title: "Beoog Burkimbi",
+    url: "https://lerestau-7e4a5.web.app/",
+    description: "Plateforme communautaire ou éducative."
+  },
+
+  
+  {
+    title: "Beoog Burkimbi",
+    url: "https://lerestau-7e4a5.web.app/",
+    description: "Plateforme client choix et envoi des commandes."
+  },
+
+  
+  {
+    title: "Beoog Burkimbi",
+    url: "  https://lerestau-7e4a5.web.app/#/gerant",
+    description: "Plateforme gérant réception des commandes."
+  },
+
+    {
+    title: "Beoog Burkimbi",
+    url: "https://TalentCathos.web.app",
+    description: "Plateforme communautaire pour la création de valeurs."
   }
+
 ];
 
 // System prompt for the Gemini AI
