@@ -79,7 +79,7 @@ export const PROJECTS: Project[] = [
     description: "Plateforme gérant réception des commandes."
   },
 
-  {
+   {
     title: "TalentCathos",
     url: "https://TalentCathos.web.app",
     description: "Plateforme communautaire pour la création de valeurs."
