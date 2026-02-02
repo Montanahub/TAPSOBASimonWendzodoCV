@@ -92,7 +92,6 @@ export const PROJECTS: Project[] = [
     description: "Plateforme communautaire pour la création de valeurs."
   }
 
-
   
 ];
 
