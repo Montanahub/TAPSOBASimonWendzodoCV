@@ -45,6 +45,28 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
 ];
 
 export const PROJECTS: Project[] = [
+  
+  {
+    title: "Commande qr code client",
+    url: "https://lerestau-7e4a5.web.app/",
+    description: "Plateforme client choix et envoi des commandes."
+  },
+
+  
+  {
+    title: "Commande qr code gérant",
+    url: "  https://lerestau-7e4a5.web.app/#/gerant",
+    description: "Plateforme gérant réception des commandes."
+  },
+
+   {
+    title: "TalentCathos",
+    url: "https://TalentCathos.web.app",
+    description: "Plateforme communautaire pour la création de valeurs."
+  },
+
+  
+
   {
     title: "Hôpital Paul 6",
     url: "https://hopitalpaul6.onrender.com",
